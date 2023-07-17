@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmwrk", "frmwrk\frmwrk.csproj", "{C2A03049-9336-4062-B0CC-2067AA677828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelicopterShooter", "HelicopterShooter\HelicopterShooter.csproj", "{F1C45FCD-7887-4087-ACBE-86FD2D69F306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A03049-9336-4062-B0CC-2067AA677828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A03049-9336-4062-B0CC-2067AA677828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A03049-9336-4062-B0CC-2067AA677828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A03049-9336-4062-B0CC-2067AA677828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C45FCD-7887-4087-ACBE-86FD2D69F306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C45FCD-7887-4087-ACBE-86FD2D69F306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C45FCD-7887-4087-ACBE-86FD2D69F306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C45FCD-7887-4087-ACBE-86FD2D69F306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236519AA-46C3-48B3-B29E-9F8AE1F0738E}
+	EndGlobalSection
+EndGlobal

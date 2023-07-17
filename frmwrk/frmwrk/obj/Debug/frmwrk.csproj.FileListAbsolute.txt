@@ -1,0 +1,18 @@
+D:\frmwrk\frmwrk\bin\Debug\frmwrk.dll
+D:\frmwrk\frmwrk\bin\Debug\frmwrk.pdb
+D:\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.AssemblyReference.cache
+D:\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.CoreCompileInputs.cache
+D:\frmwrk\frmwrk\obj\Debug\frmwrk.dll
+D:\frmwrk\frmwrk\obj\Debug\frmwrk.pdb
+D:\frmwrk\frmwrk\bin\Debug\EZInput.dll
+D:\frmwrk\frmwrk\bin\Debug\EZInput.xml
+D:\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.CopyComplete
+E:\2ND SEMESTER\frmwrk\frmwrk\bin\Debug\frmwrk.dll
+E:\2ND SEMESTER\frmwrk\frmwrk\bin\Debug\frmwrk.pdb
+E:\2ND SEMESTER\frmwrk\frmwrk\bin\Debug\EZInput.dll
+E:\2ND SEMESTER\frmwrk\frmwrk\bin\Debug\EZInput.xml
+E:\2ND SEMESTER\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.AssemblyReference.cache
+E:\2ND SEMESTER\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.CoreCompileInputs.cache
+E:\2ND SEMESTER\frmwrk\frmwrk\obj\Debug\frmwrk.csproj.CopyComplete
+E:\2ND SEMESTER\frmwrk\frmwrk\obj\Debug\frmwrk.dll
+E:\2ND SEMESTER\frmwrk\frmwrk\obj\Debug\frmwrk.pdb

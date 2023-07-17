@@ -1,0 +1,37 @@
+D:\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.exe.config
+D:\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.exe
+D:\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.pdb
+D:\frmwrk\HelicopterShooter\bin\Debug\frmwrk.dll
+D:\frmwrk\HelicopterShooter\bin\Debug\frmwrk.pdb
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.AssemblyReference.cache
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.Form1.resources
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.Properties.Resources.resources
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.GenerateResource.cache
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CoreCompileInputs.cache
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CopyComplete
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.exe
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.pdb
+D:\frmwrk\HelicopterShooter\bin\Debug\EZInput.dll
+D:\frmwrk\HelicopterShooter\bin\Debug\EZInput.xml
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frminstructions.resources
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frmstarting.resources
+D:\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frmgameover.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.exe.config
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.exe
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\HelicopterShooter.pdb
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\EZInput.dll
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\frmwrk.dll
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\frmwrk.pdb
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\bin\Debug\EZInput.xml
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.AssemblyReference.cache
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.SuggestedBindingRedirects.cache
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.Form1.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frmgameover.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frminstructions.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.frmstarting.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.Properties.Resources.resources
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.GenerateResource.cache
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CoreCompileInputs.cache
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CopyComplete
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.exe
+E:\2ND SEMESTER\frmwrk\HelicopterShooter\obj\Debug\HelicopterShooter.pdb
